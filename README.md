@@ -59,6 +59,10 @@ python estoque.py
 
 ## Objetivo
 
-Este projeto foi desenvolvido como parte dos meus estudos em Python e representa meu primeiro projeto completo utilizando manipulação de dados em arquivos CSV.
+## Objetivo
 
-Os próximos passos incluem projetos utilizando Pandas, SQL e Power BI voltados para análise de dados.
+Este projeto foi desenvolvido para consolidar conhecimentos fundamentais de Python por meio da construção de uma aplicação completa de gerenciamento de dados.
+
+Durante o desenvolvimento foram praticados conceitos como funções, listas, dicionários, manipulação de arquivos CSV e operações CRUD (Create, Read, Update e Delete).
+
+Além disso, o projeto representa uma etapa inicial da minha transição para a área de dados, servindo como base para estudos futuros em Pandas, SQL e Power BI.
